@@ -1,6 +1,7 @@
 # Hello, my name is Ibrahim 👋  
 
-Welcome to my GitHub profile! I'm passionate about coding, solving problems, and building impactful projects.  
+Welcome to my GitHub profile! I am a detail-oriented and highly motivated frontend developer with experience in JavaScript, React, Next.js, and Tailwind CSS.
+I'm passionate about coding, solving problems, building impactful projects, and expanding my technical knowledge by proactively learning new technologies.
 
 ## 💻 Tech Stack  
 
