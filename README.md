@@ -1,14 +1,14 @@
 # Hello, my name is Ibrahim 👋  
 
-Welcome to my GitHub profile! I am a detail-oriented and highly motivated frontend developer with experience in JavaScript, React, Next.js, and Tailwind CSS.
+Welcome to my GitHub profile! I am a detail-oriented and highly motivated frontend developer with experience in **JavaScript, React, Next.js, and Tailwind CSS**.
 I'm passionate about coding, solving problems, building impactful projects, and expanding my technical knowledge by proactively learning new technologies.
 
 ## 💻 Tech Stack  
 
 **Languages:** JavaScript | Node.js  
-**Frontend:** HTML | Tailwind CSS | CSS | React | React Native | Vue.js | Next.js | Sass  
-**Testing:** Test-Driven Development (TDD) | Jest | Supertest  
+**Frontend:** Next.js | React | HTML/CSS | Vue.js | Tailwind CSS | React Native | Sass  
 **Backend:** SQL | PostgreSQL | Node.js | Express | REST APIs  
+**Testing:** Test-Driven Development (TDD) | Jest | Supertest  
 
 ## 🌟 Projects  
 
