@@ -6,9 +6,9 @@ I'm passionate about coding, solving problems, building impactful projects, and 
 ## 💻 Tech Stack  
 
 **Languages:** JavaScript | Node.js  
+**Frontend:** HTML | Tailwind CSS | CSS | React | React Native | Vue.js | Next.js | Sass  
 **Testing:** Test-Driven Development (TDD) | Jest | Supertest  
 **Backend:** SQL | PostgreSQL | Node.js | Express | REST APIs  
-**Frontend:** HTML | Tailwind CSS | CSS | React | React Native | Vue.js | Next.js | Sass  
 
 ## 🌟 Projects  
 
