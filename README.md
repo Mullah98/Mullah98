@@ -16,4 +16,4 @@ Check out the repositories section to see the projects I've worked on. I'd love 
 
 ## 💼 Looking for Opportunities  
 
-I'm currently seeking a **Junior Software Developer** role. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ibrahim-ullah-380972284/) or via email at **ibrahimul106@gmail.com**.  
+I'm currently seeking a **Software Developer** role. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ibrahim-ullah-380972284/) or via email at **ibrahimul106@gmail.com**.  
