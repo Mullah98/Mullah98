@@ -82,6 +82,6 @@ Deployed an NGINX web server on AWS EC2, configured DNS with Route 53, and secur
 
 <h2>📫 Contact</h2>
 <p>
-📧 <h3><a href="mailto:ibrahimul106@gmail.com">ibrahimul106@gmail.com</h3></strong> <br/>
-🔗 <h3><a href="https://www.linkedin.com/in/ibrahim-ullah/">LinkedIn</h3></strong>
+<h3>📧 <a href="mailto:ibrahimul106@gmail.com">ibrahimul106@gmail.com</h3></strong> <br/>
+<h3>🔗 <a href="https://www.linkedin.com/in/ibrahim-ullah/">LinkedIn</h3></strong>
 </p>
