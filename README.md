@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> Docker
 </p>
 
+---
+
 <h3>⏳ DevOps — In Progress</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" /> Kubernetes &nbsp;&nbsp;
@@ -32,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" /> Terraform
 </p>
 
+---
 
 <h3>📦 Others — Full-Stack Background</h3>
 <p>
@@ -43,6 +46,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" /> Express &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /> PostgreSQL &nbsp;&nbsp;
 </p>
+
+<hr />
+
+<h2>📚 Learning Journey</h2>
+
+<p>Here's a summary of my hands-on modules at <strong>CoderCo Academy</strong>, with repos for each:</p>
+
+- 🐧 **Linux:** [coderco-linux](https://github.com/Mullah98/coderco-linux)
+- 🐚 **Bash:** [coderco-bash](https://github.com/Mullah98/coderco-bash)
+- 🌐 **Networking:** [coderco-networking](https://github.com/Mullah98/coderco-networking)
+- 🐳 **Docker:** [coderco-docker](https://github.com/Mullah98/coderco-docker)
 
 <hr />
 
@@ -58,7 +72,7 @@ Deployed an NGINX web server on AWS EC2, configured DNS with Route 53, and secur
 
 <strong>Tech Stack:</strong> AWS EC2 • Route 53 • NGINX • SSL/TLS
 
-<h2>Other projects></h2>
+<h2>Other projects</h2>
 
 <h3>💳 <a href="https://github.com/Mullah98/DebtMates">DebtMates App</a></h3>
 <h3>🎨 <a href="https://github.com/Mullah98/exhibition-curator-project">Exhibition Curator Platform</a></h3>
@@ -68,6 +82,6 @@ Deployed an NGINX web server on AWS EC2, configured DNS with Route 53, and secur
 
 <h2>📫 Contact</h2>
 <p>
-📧 <strong><a href="mailto:ibrahimul106@gmail.com">ibrahimul106@gmail.com</a></strong> <br/>
-🔗 <strong><a href="https://www.linkedin.com/in/ibrahim-ullah/">LinkedIn</a></strong>
+📧 <h3><a href="mailto:ibrahimul106@gmail.com">ibrahimul106@gmail.com</h3></strong> <br/>
+🔗 <h3><a href="https://www.linkedin.com/in/ibrahim-ullah/">LinkedIn</h3></strong>
 </p>
