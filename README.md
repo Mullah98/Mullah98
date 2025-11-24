@@ -28,10 +28,10 @@
 
 <h3>⏳ DevOps — In Progress</h3>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" /> Kubernetes &nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" /> AWS &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" width="40" /> CI/CD &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" /> Terraform
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" width="40" /> CI/CD &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" /> Kubernetes &nbsp;&nbsp;
 </p>
 
 ---
