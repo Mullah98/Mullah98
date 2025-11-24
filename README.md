@@ -27,7 +27,7 @@
 <h3>⏳ DevOps — In Progress</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" /> Kubernetes &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" /> AWS &nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/amazonwebservices/amazonwebservices-original.svg" width="40" /> AWS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /> CI/CD &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" /> Terraform
 </p>
@@ -38,11 +38,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /> TypeScript &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /> React &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" /> Next.js &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" /> Vue.js &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /> Node.js &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" /> Express &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /> PostgreSQL &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" /> Sass
 </p>
 
 <hr />
@@ -50,11 +48,13 @@
 <h2>🚀 Projects</h2>
 
 <h3>📦 <a href="https://github.com/Mullah98/flask-redis-docker-app">Flask + Redis App (Docker Compose)</a></h3>
-A containerised Flask app connected to Redis using Docker Compose. Tracks and stores page visits using Redis with persistent volumes.  
+A containerised Flask app connected to Redis using Docker Compose. Tracks and stores page visits using Redis with persistent volumes.
+
 <strong>Tech Stack:</strong> Flask • Redis • Docker • Docker Compose
 
 <h3>🌐 <a href="https://github.com/Mullah98/EC2-NGINX-Server">EC2 NGINX Server Deployment</a></h3>
-Deployed an NGINX web server on AWS EC2, configured DNS with Route 53, and secured the site using Let’s Encrypt SSL for HTTPS.  
+Deployed an NGINX web server on AWS EC2, configured DNS with Route 53, and secured the site using Let’s Encrypt SSL for HTTPS.
+
 <strong>Tech Stack:</strong> AWS EC2 • Route 53 • NGINX • SSL/TLS
 
 <h2>Other projects></h2>
