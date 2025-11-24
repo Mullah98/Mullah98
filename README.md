@@ -1,55 +1,72 @@
-<h1 align="center">Hello, my name is Ibrahim 👋</h1>
+<h1 align="center">👋 Hello, my name is Ibrahim</h1>
 
-<p align="center"><strong>DevOps Engineer in Training | Full-Stack Background</strong></p> <p align="center"> Currently building DevOps skills through hands-on training at <strong>CoderCo Academy</strong>. </p>
+<p align="center"><strong>DevOps Engineer in Training | Full-Stack Background</strong></p>
+<p align="center">Currently building DevOps skills through hands-on training at <strong>CoderCo Academy</strong>.</p>
 
-💡 About Me
+<h2>💡 About Me</h2>
+<ul>
+  <li>Learning and applying <strong>DevOps skills</strong> through practical, real-world projects</li>
+  <li>Building experience with <strong>Linux</strong>, <strong>containers</strong>, <strong>cloud infrastructure</strong>, <strong>automation</strong>, and <strong>deployment workflows</strong></li>
+  <li>Developing a strong foundation in <strong>Kubernetes</strong>, <strong>AWS</strong>, <strong>CI/CD</strong>, and <strong>Terraform</strong></li>
+  <li>Focused on <strong>reliability</strong>, <strong>scalability</strong>, and clean <strong>automation practices</strong></li>
+  <li>Backed by experience in <strong>full-stack JavaScript development</strong> (React, Next.js, Node.js)</li>
+</ul>
 
-- Learning and applying DevOps skills through practical, real-world projects
-- Building experience with Linux, containers, cloud infrastructure, automation, and deployment workflows
-- Developing a strong foundation in Kubernetes, AWS, CI/CD, and Terraform
-- Focused on reliability, scalability, and clean automation practices
-- Backed by experience in full-stack JavaScript development (React, Next.js, Node.js)
+<hr />
 
----
-
-🔧 <h2>Tech Stack</h2>
+<h2>🔧 Tech Stack</h2>
 
 <h3>✔️ DevOps — Completed</h3>
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />&nbsp; </p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /> Linux &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" /> Bash &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> Git &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> Docker
+</p>
 
 <h3>⏳ DevOps — In Progress</h3>
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" width="45" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" />&nbsp; </p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" /> Kubernetes &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" /> AWS &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /> CI/CD &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" /> Terraform
+</p>
 
 <h3>📦 Others — Full-Stack Background</h3>
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" />&nbsp; </p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> JavaScript &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /> TypeScript &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /> React &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" /> Next.js &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" /> Vue.js &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /> Node.js &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" /> Express &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /> PostgreSQL &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" /> Sass
+</p>
 
----
+<hr />
 
-🚀 <h2>Projects</h2>
-📦 <h3>[Flask + Redis App (Docker Compose)](https://github.com/Mullah98/flask-redis-docker-app)</h3>
+<h2>🚀 Projects</h2>
 
-A containerised Flask app connected to Redis using Docker Compose.
-Tracks and stores page visits using Redis with persistent volumes.
+<h3>📦 <a href="https://github.com/Mullah98/flask-redis-docker-app">Flask + Redis App (Docker Compose)</a></h3>
+A containerised Flask app connected to Redis using Docker Compose. Tracks and stores page visits using Redis with persistent volumes.  
+<strong>Tech Stack:</strong> Flask • Redis • Docker • Docker Compose
 
-**Tech Stack:** Flask • Redis • Docker • Docker Compose
+<h3>🌐 <a href="https://github.com/Mullah98/EC2-NGINX-Server">EC2 NGINX Server Deployment</a></h3>
+Deployed an NGINX web server on AWS EC2, configured DNS with Route 53, and secured the site using Let’s Encrypt SSL for HTTPS.  
+<strong>Tech Stack:</strong> AWS EC2 • Route 53 • NGINX • SSL/TLS
 
-🌐 <h3>[EC2 NGINX Server Deployment](https://github.com/Mullah98/EC2-NGINX-Server)</h3>
+<h2>Other projects></h2>
 
-Deployed an NGINX web server on AWS EC2, configured DNS with Route 53,
-and secured the site using Let’s Encrypt SSL for HTTPS.
+<h3>💳 <a href="https://github.com/Mullah98/DebtMates">DebtMates App</a></h3>
+<h3>🎨 <a href="https://github.com/Mullah98/exhibition-curator-project">Exhibition Curator Platform</a></h3>
+<h3>⚽ <a href="https://github.com/Mullah98/My-Footy-App">My Football App</a></h3>
 
-**Tech Stack:** AWS EC2 • Route 53 • NGINX • SSL/TLS
+<hr />
 
-<h2>Other projects</h2>
-🎨 <h3>[Exhibition Curator Platform](https://github.com/Mullah98/exhibition-curator-project)</h3>
-
-⚽︎ <h3>[My Football App](https://github.com/Mullah98/My-Footy-App)</h3>
-
----
-
-📫 Contact
-
-Reach out anytime:
-📧 [ibrahimul106@gmail.com](ibrahimul106@gmail.com)
-
-🔗 [Linkedin](https://www.linkedin.com/in/ibrahim-ullah/)
+<h2>📫 Contact</h2>
+<p>
+📧 <strong><a href="mailto:ibrahimul106@gmail.com">ibrahimul106@gmail.com</a></strong> <br/>
+🔗 <strong><a href="https://www.linkedin.com/in/ibrahim-ullah/">LinkedIn</a></strong>
+</p>
