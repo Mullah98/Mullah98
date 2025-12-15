@@ -22,13 +22,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" /> Bash &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> Git &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> Docker
+  <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" /> AWS &nbsp;&nbsp;
 </p>
 
 ---
 
 <h3>⏳ DevOps — In Progress</h3>
 <p>
-  <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" /> AWS &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" /> Terraform
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" width="40" /> CI/CD &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" /> Kubernetes &nbsp;&nbsp;
@@ -57,6 +57,7 @@
 - 🐚 **Bash:** [coderco-bash](https://github.com/Mullah98/coderco-bash)
 - 🌐 **Networking:** [coderco-networking](https://github.com/Mullah98/coderco-networking)
 - 🐳 **Docker:** [coderco-docker](https://github.com/Mullah98/coderco-docker)
+- ☁️ **AWS:** [coderco-aws](https://github.com/Mullah98/coderco-aws)
 
 <hr />
 
@@ -82,6 +83,6 @@ Deployed an NGINX web server on AWS EC2, configured DNS with Route 53, and secur
 
 <h2>📫 Contact</h2>
 <p>
-<h3>📧 <a href="mailto:ibrahimul106@gmail.com">ibrahimul106@gmail.com</h3></strong> <br/>
+<h3>📧 <a href="mailto:ibrahimul106@gmail.com">ibrahimul106@gmail.com</h3></strong>
 <h3>🔗 <a href="https://www.linkedin.com/in/ibrahim-ullah/">LinkedIn</h3></strong>
 </p>
