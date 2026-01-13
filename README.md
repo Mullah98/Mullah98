@@ -64,7 +64,7 @@
 
 <h2>🚀 Projects</h2>
 
-<h3>☁️ <a href="[https://github.com/Mullah98/coderco-terraform/blob/main/terraform-nginx]">NGINX + Terraform Automation</a></h3>
+<h3>☁️ <a href="https://github.com/Mullah98/coderco-terraform/blob/main/terraform-nginx">NGINX + Terraform Automation</a></h3>
 Automated deployment of an NGINX web server on AWS EC2 using Terraform and Cloud-Init. Fully automated with no manual setup, including EC2 provisioning, security groups, and public DNS.
 
 <strong>Tech Stack:</strong> Terraform • AWS EC2 • NGINX • Cloud-Init
