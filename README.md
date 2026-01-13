@@ -23,13 +23,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> Git &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> Docker
   <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" /> AWS &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" /> Terraform
 </p>
 
 ---
 
 <h3>⏳ DevOps — In Progress</h3>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" /> Terraform
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" width="40" /> CI/CD &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" /> Kubernetes &nbsp;&nbsp;
 </p>
@@ -58,10 +58,17 @@
 - 🌐 **Networking:** [coderco-networking](https://github.com/Mullah98/coderco-networking)
 - 🐳 **Docker:** [coderco-docker](https://github.com/Mullah98/coderco-docker)
 - ☁️ **AWS:** [coderco-aws](https://github.com/Mullah98/coderco-aws)
+- 🏗️ **Terraform** [coderco-terraform](https://github.com/Mullah98/coderco-terraform)
 
 <hr />
 
 <h2>🚀 Projects</h2>
+
+<h3>☁️ <a href="[https://github.com/Mullah98/coderco-terraform/blob/main/terraform-nginx]">NGINX + Terraform Automation</a></h3>
+Automated deployment of an NGINX web server on AWS EC2 using Terraform and Cloud-Init. Fully automated with no manual setup, including EC2 provisioning, security groups, and public DNS.
+
+<strong>Tech Stack:</strong> Terraform • AWS EC2 • NGINX • Cloud-Init
+
 
 <h3>📦 <a href="https://github.com/Mullah98/flask-redis-docker-app">Flask + Redis App (Docker Compose)</a></h3>
 A containerised Flask app connected to Redis using Docker Compose. Tracks and stores page visits using Redis with persistent volumes.
