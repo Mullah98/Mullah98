@@ -59,7 +59,7 @@
 - 🐳 **Docker:** [coderco-docker](https://github.com/Mullah98/coderco-docker)
 - ☁️ **AWS:** [coderco-aws](https://github.com/Mullah98/coderco-aws)
 - 🏗️ **Terraform** [coderco-terraform](https://github.com/Mullah98/coderco-terraform)
-- ♾️ **CI/CD** [https://github.com/Mullah98/coderco-ci-cd]
+- ♾️ **CI/CD** [codero-ci/cd](https://github.com/Mullah98/coderco-ci-cd)
 
 <hr />
 
