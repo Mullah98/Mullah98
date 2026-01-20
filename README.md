@@ -7,7 +7,7 @@
 <ul>
   <li>Learning and applying <strong>DevOps skills</strong> through practical, real-world projects</li>
   <li>Building experience with <strong>Linux</strong>, <strong>containers</strong>, <strong>cloud infrastructure</strong>, <strong>automation</strong>, and <strong>deployment workflows</strong></li>
-  <li>Developing a strong foundation in <strong>Kubernetes</strong>, <strong>AWS</strong>, <strong>CI/CD</strong>, and <strong>Terraform</strong></li>
+  <li>Developing a strong foundation in <strong>Linux</strong>, <strong>Terraform</strong>, <strong>Docker</strong>, <strong>CI/CD</strong>, and <strong>Kubernetes</strong>
   <li>Focused on <strong>reliability</strong>, <strong>scalability</strong>, and clean <strong>automation practices</strong></li>
   <li>Backed by experience in <strong>full-stack JavaScript development</strong> (React, Next.js, Node.js)</li>
 </ul>
@@ -24,13 +24,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> Docker
   <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" /> AWS &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" /> Terraform
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" width="40" /> CI/CD &nbsp;&nbsp;
 </p>
 
 ---
 
 <h3>⏳ DevOps — In Progress</h3>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" width="40" /> CI/CD &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" /> Kubernetes &nbsp;&nbsp;
 </p>
 
@@ -59,6 +59,7 @@
 - 🐳 **Docker:** [coderco-docker](https://github.com/Mullah98/coderco-docker)
 - ☁️ **AWS:** [coderco-aws](https://github.com/Mullah98/coderco-aws)
 - 🏗️ **Terraform** [coderco-terraform](https://github.com/Mullah98/coderco-terraform)
+- ♾️ **CI/CD** [https://github.com/Mullah98/coderco-ci-cd]
 
 <hr />
 
