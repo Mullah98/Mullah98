@@ -15,8 +15,6 @@
 <hr />
 
 <h2>🔧 Tech Stack</h2>
-
-<h3>✔️ DevOps — Completed</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /> Linux &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" /> Bash &nbsp;&nbsp;
@@ -27,9 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" width="40" /> CI/CD &nbsp;&nbsp;
 </p>
 
----
-
-<h3>⏳ DevOps — In Progress</h3>
+<h3>⏳ In Progress</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" /> Kubernetes &nbsp;&nbsp;
 </p>
