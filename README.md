@@ -1,15 +1,15 @@
 <h1 align="center">👋 Hello, my name is Ibrahim</h1>
 
-<p align="center"><strong>DevOps Engineer in Training | Full-Stack Background</strong></p>
-<p align="center">Currently building DevOps skills through hands-on training at <strong>CoderCo Academy</strong>.</p>
+<p align="center"><strong>DevOps Engineer | Cloud Infrastructure | Automation | Full-Stack Background</strong></p>
+<p align="center">DevOps-focused engineer with hands-on experience building cloud infrastructure, containerised applications, and automated deployment pipelines.</p>
 
 <h2>💡 About Me</h2>
 <ul>
-  <li>Learning and applying <strong>DevOps skills</strong> through practical, real-world projects</li>
-  <li>Building experience with <strong>Linux</strong>, <strong>containers</strong>, <strong>cloud infrastructure</strong>, <strong>automation</strong>, and <strong>deployment workflows</strong></li>
-  <li>Developing a strong foundation in <strong>Linux</strong>, <strong>Terraform</strong>, <strong>Docker</strong>, <strong>CI/CD</strong>, and <strong>Kubernetes</strong>
-  <li>Focused on <strong>reliability</strong>, <strong>scalability</strong>, and clean <strong>automation practices</strong></li>
-  <li>Backed by experience in <strong>full-stack JavaScript development</strong> (React, Next.js, Node.js)</li>
+  <li>DevOps-focused engineer building scalable infrastructure and automated deployment workflows</li>
+  <li>Experienced with <strong>Linux</strong>, <strong>containers</strong>, <strong>cloud infrastructure</strong>, and <strong>CI/CD automation</strong></li>
+  <li>Hands-on experience provisioning infrastructure with <strong>Terraform</strong> and deploying containerised applications using <strong>Docker</strong> and <strong>AWS</strong></li>
+  <li>Focused on <strong>reliability</strong>, <strong>scalability</strong>, and clean <strong>infrastructure-as-code practices</strong></li>
+  <li>Background in <strong>full-stack JavaScript development</strong> (React, Next.js, Node.js)</li>
 </ul>
 
 <hr />
@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" width="40" /> CI/CD &nbsp;&nbsp;
 </p>
 
-<h3>⏳ In Progress</h3>
+<h3>⏳ Currently Exploring</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" /> Kubernetes &nbsp;&nbsp;
 </p>
@@ -45,9 +45,9 @@
 
 <hr />
 
-<h2>📚 Learning Journey</h2>
+<h2>📚 Hands-On DevOps Labs</h2>
 
-<p>Here's a summary of my hands-on modules at <strong>CoderCo Academy</strong>, with repos for each:</p>
+<p>Hands-on infrastructure and DevOps labs covering core areas of Linux, networking, containers, cloud infrastructure, and CI/CD.</p>
 
 - 🐧 **Linux:** [coderco-linux](https://github.com/Mullah98/coderco-linux)
 - 🐚 **Bash:** [coderco-bash](https://github.com/Mullah98/coderco-bash)
@@ -60,6 +60,11 @@
 <hr />
 
 <h2>🚀 Projects</h2>
+
+<h3>⚙️ <a href="https://github.com/Mullah98/debtmates-ecs-aws">AWS ECS Fargate Deployment (DebtMates App)</a></h3>
+Production-style AWS deployment using ECS Fargate with infrastructure provisioned via Terraform and automated through GitHub Actions CI/CD. The containerised application is served through an Application Load Balancer with HTTPS and a custom domain, with monitoring enabled via CloudWatch.
+
+<strong>Tech Stack:</strong> AWS ECS Fargate • Terraform • Docker • GitHub Actions • ALB • CloudWatch • HTTPS
 
 <h3>☁️ <a href="https://github.com/Mullah98/coderco-terraform/blob/main/terraform-nginx">NGINX + Terraform Automation</a></h3>
 Automated deployment of an NGINX web server on AWS EC2 using Terraform and Cloud-Init. Fully automated with no manual setup, including EC2 provisioning, security groups, and public DNS.
@@ -81,7 +86,6 @@ Deployed an NGINX web server on AWS EC2, configured DNS with Route 53, and secur
 
 <h3>💳 <a href="https://github.com/Mullah98/DebtMates">DebtMates App</a></h3>
 <h3>🎨 <a href="https://github.com/Mullah98/exhibition-curator-project">Exhibition Curator Platform</a></h3>
-<h3>⚽ <a href="https://github.com/Mullah98/My-Footy-App">My Football App</a></h3>
 
 <hr />
 
